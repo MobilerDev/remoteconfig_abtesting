@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"890090000023106269",
+		"product_id":"736430079244618739",
+		"client_id":"441496985892029632",
+		"client_secret":"51B799179FF2A894D95DA7EB91545F1BBEA6C0DDE26311D983B56FBAFD6362D4",
+		"app_id":"102818021",
+		"package_name":"techtalkdemo.huawei",
+		"api_key":"CgB6e3x9pmV4I60ayZBLGbSLXBCMn6zGM6pBpz4HPF1hTrrOZo18F1AiZ1ic2OyOlKLDSRjpyWPaocDmvD5a3LKL"
+	},
+	"configuration_version":"1.0"
+}
